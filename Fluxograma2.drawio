@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
+  <diagram name="Página-1" id="rWtpH7rfftE7k149EgI7">
+    <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iXk6kU1gqlKXC_ynmDL2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iXk6kU1gqlKXC_ynmDL2-1" target="iXk6kU1gqlKXC_ynmDL2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXk6kU1gqlKXC_ynmDL2-1" value="inicio" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="354" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iXk6kU1gqlKXC_ynmDL2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iXk6kU1gqlKXC_ynmDL2-2" target="iXk6kU1gqlKXC_ynmDL2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXk6kU1gqlKXC_ynmDL2-2" value="Ler Km iniciais" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="331" y="160" width="166" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iXk6kU1gqlKXC_ynmDL2-3" value="Ler Km finais" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="331" y="300" width="166" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iXk6kU1gqlKXC_ynmDL2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iXk6kU1gqlKXC_ynmDL2-6" target="iXk6kU1gqlKXC_ynmDL2-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXk6kU1gqlKXC_ynmDL2-6" value="Calcular Km percorridos&lt;div&gt;=&lt;/div&gt;&lt;div&gt;(Km iniciais-Km finais)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="336" y="580" width="156" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iXk6kU1gqlKXC_ynmDL2-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iXk6kU1gqlKXC_ynmDL2-8" target="iXk6kU1gqlKXC_ynmDL2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXk6kU1gqlKXC_ynmDL2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iXk6kU1gqlKXC_ynmDL2-8" target="iXk6kU1gqlKXC_ynmDL2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXk6kU1gqlKXC_ynmDL2-8" value="Ler litros de gasolina gastos" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="331" y="430" width="166" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iXk6kU1gqlKXC_ynmDL2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iXk6kU1gqlKXC_ynmDL2-11" target="iXk6kU1gqlKXC_ynmDL2-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXk6kU1gqlKXC_ynmDL2-11" value="Calcilar consumo de gasolina por 100 kilometro&lt;div&gt;=&lt;/div&gt;&lt;div&gt;(litros de gasolina gastos/Km percorridos)*100&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="316" y="760" width="196" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iXk6kU1gqlKXC_ynmDL2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iXk6kU1gqlKXC_ynmDL2-14" target="iXk6kU1gqlKXC_ynmDL2-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXk6kU1gqlKXC_ynmDL2-14" value="Escrever gasolina gasta por 100 Km" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="324" y="950" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iXk6kU1gqlKXC_ynmDL2-16" value="fim" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1089" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
