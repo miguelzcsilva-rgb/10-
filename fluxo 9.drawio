@@ -1,0 +1,207 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.5">
+  <diagram name="Página-1" id="9NJC0nzBzvWN8VRRF3WI">
+    <mxGraphModel dx="1418" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DlamfmGE10S6ewSd_xDl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DlamfmGE10S6ewSd_xDl-1" target="DlamfmGE10S6ewSd_xDl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-1" value="inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DlamfmGE10S6ewSd_xDl-2" target="DlamfmGE10S6ewSd_xDl-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DlamfmGE10S6ewSd_xDl-2" target="DlamfmGE10S6ewSd_xDl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-2" value="n=={1234567}" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-3" value="ler n" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=0.088;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DlamfmGE10S6ewSd_xDl-3" target="DlamfmGE10S6ewSd_xDl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DlamfmGE10S6ewSd_xDl-6" target="DlamfmGE10S6ewSd_xDl-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="DlamfmGE10S6ewSd_xDl-6" target="DlamfmGE10S6ewSd_xDl-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="640" />
+              <mxPoint x="666" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="481" y="522.5" as="sourcePoint" />
+            <mxPoint x="827" y="525" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="523" />
+              <mxPoint x="460" y="460" />
+              <mxPoint x="827" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DlamfmGE10S6ewSd_xDl-6" target="DlamfmGE10S6ewSd_xDl-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="420" />
+              <mxPoint x="985" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DlamfmGE10S6ewSd_xDl-6" target="DlamfmGE10S6ewSd_xDl-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="780" />
+              <mxPoint x="887" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DlamfmGE10S6ewSd_xDl-6" target="DlamfmGE10S6ewSd_xDl-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="610" />
+              <mxPoint x="702" y="610" />
+              <mxPoint x="702" y="595" />
+              <mxPoint x="985" y="595" />
+              <mxPoint x="985" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DlamfmGE10S6ewSd_xDl-6" target="DlamfmGE10S6ewSd_xDl-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="400" />
+              <mxPoint x="1181" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-6" value="switch case n" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-7" value="escrever &quot;erro&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.042;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="DlamfmGE10S6ewSd_xDl-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1370" y="570" as="targetPoint" />
+            <mxPoint x="1015" y="575" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1015" y="610" />
+              <mxPoint x="1370" y="610" />
+              <mxPoint x="1370" y="561" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-10" value="escrever&quot;quarta-feira&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="530" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.65;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DlamfmGE10S6ewSd_xDl-11" target="DlamfmGE10S6ewSd_xDl-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1540" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="200" />
+              <mxPoint x="1540" y="200" />
+              <mxPoint x="1540" y="509" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-11" value="escrever &quot;segunda feira&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.275;entryY=0.088;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DlamfmGE10S6ewSd_xDl-12" target="DlamfmGE10S6ewSd_xDl-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1470" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="300" />
+              <mxPoint x="1470" y="300" />
+              <mxPoint x="1470" y="512" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-12" value="escrever &quot;terça-feira" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="522.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DlamfmGE10S6ewSd_xDl-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1330" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-13" value="escrever &quot;quinta-feira&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="515" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.3;entryY=0.913;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DlamfmGE10S6ewSd_xDl-14" target="DlamfmGE10S6ewSd_xDl-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1482" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="750" />
+              <mxPoint x="1482" y="750" />
+              <mxPoint x="1482" y="578" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-14" value="escrever&quot;sábado&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DlamfmGE10S6ewSd_xDl-15" target="DlamfmGE10S6ewSd_xDl-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1420" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-15" value="escrever&quot;domingo&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DlamfmGE10S6ewSd_xDl-16" target="DlamfmGE10S6ewSd_xDl-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1550" y="591" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="830" />
+              <mxPoint x="1550" y="830" />
+              <mxPoint x="1550" y="573" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-16" value="escrever&quot;sexta-feira&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-24" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="518" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-25" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="785" y="468" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-26" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="945" y="418" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-27" value="4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="408" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-28" value="6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="855" y="758" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-29" value="5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="645" y="638" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-30" value="7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="985" y="628" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-31" value="verdadeiro" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="438" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-32" value="falso" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="338" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DlamfmGE10S6ewSd_xDl-40" value="fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="505" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
